@@ -1,0 +1,19 @@
+
+h1{
+    color: blueviolet;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    
+}
